@@ -27,5 +27,8 @@ We'll be accessing data from the `global_powerplants.db` SQLite3 database file. 
 
 The linked tutorial walks you through how to access a SQLite database at the command line. Try these basic commands using the `global_powerplants.db` to see if you experience any issues.
 
+**3. Download and install [the global powerplants database](bit.ly/mk_odsc_db).**
+The database file is on google drive. Please download it directly from there.
+
 
 Please contact me if you have any questions or problems setting up! I'm looking forward to meeting you and working with you this coming week!
